@@ -22,7 +22,7 @@ To run this project, you need to have the following installed on your machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Rohitt211/dice_roller.git
+   git clone https://github.com/Rohitt211/technical-test-main.git
    cd dice_roller
    ```
 
@@ -36,3 +36,6 @@ To run this project, you need to have the following installed on your machine:
    ```bash
    ruby dice_roller.rb
    ```
+## E-commerce website design
+
+E-commerce website, located in the ecommerce folder, with the main index.html file styled using Tailwind CSS. This showcases the use of Tailwind CSS in building responsive and modern web pages.
