@@ -30,7 +30,7 @@ class RollResult
   end
 
   def roll_details
-    "Description: #{description}, Values: #{values.join(', ')}, Total: #{total}"
+    "Description: #{description}\nValues: #{values.join(', ')}\nTotal: #{total}"
   end
 end
 

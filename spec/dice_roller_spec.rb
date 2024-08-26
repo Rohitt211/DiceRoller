@@ -54,7 +54,7 @@ RSpec.describe RollResult do
 
   describe '#roll_details' do
     it 'returns a string with the correct format' do
-      expect(result.roll_details).to eq("Description: 1 dice side is 6, 2 dice side is 8, Values: 3, 5, Total: 8")
+      expect(result.roll_details).to eq("Description: 1 dice side is 6, 2 dice side is 8\nValues: 3, 5\nTotal: 8")
     end
   end
 end
